@@ -10,8 +10,8 @@ Repositório com o resumo, progresso e organização do curso **Java Completo: P
 
 ## ✅ Progresso
 
-- 📘 Seções concluídas: **x de 25**
-- ⏳ Última atualização: **[23/07/2025]**
+- 📘 Seções concluídas: **09 de 25**
+- ⏳ Última atualização: **[22/07/2025]**
 
 ---
 
