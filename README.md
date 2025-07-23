@@ -20,8 +20,8 @@ Repositório com o resumo, progresso e organização do curso **Java Completo: P
 | # | Seção | Aulas | Duração | Exercícios |
 |--:|:------|:------|:--------|:-----------|
 | 1 | Introdução | 1 | 17m | - |
-| 2 | Conceitos de programação | 7 | 24m | [🔗 Acessar]() |
-| 3 | Introdução à linguagem Java | 9 | 41m | [🔗 Acessar]() |
+| 2 | Conceitos de programação | 7 | 24m | - |
+| 3 | Introdução à linguagem Java | 9 | 41m | - |
 | 4 | Estrutura sequencial | 12 | 1h15m | [🔗 Acessar]() |
 | 5 | Estrutura condicional | 11 | 54m | [🔗 Acessar]() |
 | 6 | Estruturas repetitivas | 14 | 1h10m | [🔗 Acessar]() |
