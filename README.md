@@ -25,7 +25,7 @@ Repositório com o resumo, progresso e organização do curso **Java Completo: P
 | 4 | Estrutura sequencial | 12 | 1h15m | [🔗 Acessar](https://github.com/badtheus/java-curso-nelio-exercicios/tree/main/estrutura-sequencial) |
 | 5 | Estrutura condicional | 11 | 54m | [🔗 Acessar](https://github.com/badtheus/java-curso-nelio-exercicios/tree/main/estrutura-condicional) |
 | 6 | Estruturas repetitivas | 14 | 1h10m | [🔗 Acessar](https://github.com/badtheus/java-curso-nelio-exercicios/tree/main/estrutura-repetitivas) |
-| 7 | Outros tópicos básicos sobre Java | 6 | 49m | [🔗 Acessar]() |
+| 7 | Outros tópicos básicos sobre Java | 6 | 49m | - |
 | 8 | Introdução à POO | 12 | 1h29m | [🔗 Acessar](https://github.com/badtheus/java-curso-nelio-exercicios/tree/main/introducao-orientada%20-objetos) |
 | 9 | Construtores, this, sobrecarga, encapsulamento | 11 | 1h16m | [🔗 Acessar]() |
 | 10 | Memória, arrays, listas | 20 | 2h40m | [🔗 Acessar]() |
